@@ -1,0 +1,2 @@
+Engineering Deck code files for ImpactJS.
+The core files for Impact and Weltmeister will be required to use this code.
